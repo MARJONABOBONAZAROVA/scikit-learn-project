@@ -7,3 +7,4 @@ This is a simple machine learning project using scikit-learn.
 - Model training
 - Evaluation
 
+# contribution test
